@@ -35,7 +35,7 @@ A virtual lab using Kali Linux and Ubuntu Linux was used to generate and analyze
 
 ## 📄 Documentation
 The full project report is available in this repository:
-[Network-Traffic-Analysis-Wireshark.pdf](Network-Traffic-Analysis-Wireshark.pdf)
+[Network-Traffic-Analysis-Wireshark.pdf](https://github.com/IssacGeorge/Network-Traffic-Analysis-Wireshark/blob/main/Network%20Traffic%20Analysis%20Using%20Wireshark.pdf)
 
 ## ⚠️ Disclaimer
 Testing was conducted in a controlled lab environment for educational purposes.
